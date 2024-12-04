@@ -3,7 +3,6 @@ import './nav.css'
 import {AiOutlineHome} from 'react-icons/ai'
 import {BiUser} from 'react-icons/bi'
 import {BiBookOpen} from 'react-icons/bi'
-import {BiMessageAltDetail} from 'react-icons/bi'
 import {BsBriefcase} from 'react-icons/bs'
 import { useState } from 'react'
 const Nav = () => {

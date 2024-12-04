@@ -1,6 +1,5 @@
 import React from 'react'
 import './project.css'
-import {BiCheck} from 'react-icons/bi'
 import NE from '../../assets/ne.JPG'
 const Project = () => {
   return (
