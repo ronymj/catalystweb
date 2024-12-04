@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f20fbd69.css",
+    "main.js": "/static/js/main.e1c2ec15.js",
+    "static/media/black-linen.png": "/static/media/black-linen.8a1abc775dec4ce9e1d1.png",
+    "static/media/ne.JPG": "/static/media/ne.b2f59a0fbaf02bd7c11b.JPG",
+    "index.html": "/index.html",
+    "main.f20fbd69.css.map": "/static/css/main.f20fbd69.css.map",
+    "main.e1c2ec15.js.map": "/static/js/main.e1c2ec15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f20fbd69.css",
+    "static/js/main.e1c2ec15.js"
+  ]
+}
